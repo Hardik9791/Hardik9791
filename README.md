@@ -7,6 +7,21 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
+## AWS Projects
+
+- <b> Static Website (My Resume) Hosting on AWS </b>
+  - [Project Documentation](https://github.com/Hardik9791/my-resume-on-AWS/blob/main/Project%20Documentation.pdf)
+    
+- <b> Serverless Web Application using AWS </b>
+  - [Project Documentation](https://github.com/Hardik9791/Serverless-Web-App-using-AWS/blob/main/Project%20Documentation.pdf)
+    
+- <b> Automated CI/CD Pipeline for Static Website Hosting on AWS </b>
+  - [Project Documentation](https://github.com/Hardik9791/Serverless-CICD/blob/main/Project%20Documentation%20.pdf)
+
+- <b> Backup and Disaster Recovery Project on AWS </b>
+  - [Project Documentation](https://github.com/Hardik9791/Disaster-Recovery-on-AWS)
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 #### Programming Language
@@ -32,12 +47,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 
-## Projects
 
-- <b> Static Website (My Resume) Hosting on AWS! </b>
-  - (https://github.com/Hardik9791/my-resume-on-AWS/blob/main/Project%20Documentation.pdf)
-- <b>Microsoft Azure</b>
-  - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
-- <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
+ <h2>📩Contact Me</h2>
+ 
+[<img align="left" alt="Email | Email" width="24px" src="https://img.icons8.com/doodle/100/new-post.png" />][Email]
+
+[Email]:https://mail.google.com/cloud.hardikrathod@gmail.com
+
+[<img align="left" alt="Hardik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/hardikrathod9791
