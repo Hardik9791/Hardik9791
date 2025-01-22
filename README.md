@@ -52,7 +52,7 @@
  
 [<img align="left" alt="Email | Email" width="24px" src="https://img.icons8.com/doodle/100/new-post.png" />][Email]
 
-[Email]: (mailto:cloud.hardikrathod@gmail.com)
+[Email] (mailto:cloud.hardikrathod@gmail.com)
 
 [<img align="left" alt="Hardik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
