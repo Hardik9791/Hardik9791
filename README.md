@@ -32,4 +32,12 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 
+## Projects
 
+- <b> Static Website (My Resume) Hosting on AWS! </b>
+  - (https://github.com/Hardik9791/my-resume-on-AWS/blob/main/Project%20Documentation.pdf)
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
