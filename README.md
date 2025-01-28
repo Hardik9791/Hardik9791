@@ -10,9 +10,6 @@
 
 ##  Projects
 
-- <b> Domain Controller and Delivery Controller Setup Using Azure Cloud </b>
-  - [Project Documentation](https://github.com/Hardik9791/Domain-Controller-and-Delivery-Controller-Setup-Using-Azure-Cloud/blob/main/README.md)
-
 - <b> Static Website (My Resume) Hosting on AWS </b>
   - [Project Documentation](https://github.com/Hardik9791/my-resume-on-AWS/blob/main/Project%20Documentation.pdf)
     
@@ -24,6 +21,9 @@
 
 - <b> Backup and Disaster Recovery Project on AWS </b>
   - [Project Documentation](https://github.com/Hardik9791/Disaster-Recovery-on-AWS)
+ 
+- <b> Domain Controller and Delivery Controller Setup Using Azure Cloud </b>
+  - [Project Documentation](https://github.com/Hardik9791/Domain-Controller-and-Delivery-Controller-Setup-Using-Azure-Cloud/blob/main/README.md)
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
