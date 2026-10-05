@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"><br>
 <img align="center" src="https://komarev.com/ghpvc/?username=hardik9791&label=Profile%20views&color=0e75b6&style=flat" alt="hardik9791"/>
 
-View my portfolio website: [https://hardikrathod.com](https://hardikrathod.com)
+View my portfolio website: [https://hardikrathod.com](https://hardik9791.github.io/Personal-Portfolio/)
 
 ## Projects
 
